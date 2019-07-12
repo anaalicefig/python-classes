@@ -1,4 +1,4 @@
-# python-classes
+# python-lessons
 Repositório para salvar códigos do curso de Python
 
 ### link do curso
